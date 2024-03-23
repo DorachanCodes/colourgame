@@ -12,8 +12,8 @@ body {
   
   }
   .pressed {
-    box-shadow: 0 0 20px white;
-    background-color: grey;
+    box-shadow: 0 0 20px red;
+    background-color: blue;
   }
   
   #r1,#cr1{
