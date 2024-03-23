@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: url("Sounds/color.gif");
+    background-size: cover;
+    font-family: kalam;
+    font-weight: 900;
+  }
+ p{
+    color:crimson
+ }
+ footer{
+    color:deeppink;
+ }
+  

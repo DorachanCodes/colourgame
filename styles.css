@@ -1,0 +1,149 @@
+body {
+    text-align: center;
+    background-image: url("Sounds/color.gif");
+    background-size: cover;
+  }
+  
+ 
+  
+  .container {
+    display: block;
+    margin: 20px;
+  
+  }
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  
+  #r1,#cr1{
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:green;
+  }
+  #r2,#cr2 {
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:red;
+  }
+  #r3,#cr3
+  {
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:yellow;
+  }
+#r4,#cr4
+{
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:blueviolet;
+
+}
+  .dce {
+    margin: 25px;
+    display: inline-block;
+    height: 260px;
+    width: 260px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
+  
+  
+  .cursor {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  h2
+  {
+    color:whitesmoke;
+    background-color:brown;
+  }
+  p
+  {
+  color :chocolate;
+  background-color: whitesmoke;
+  }
+  footer
+  {
+  color:red;
+  font-family: cursive;
+  font-weight: 700;
+  }
+  h3,h4{
+    background-color:greenyellow;
+    color: darkred;
+    font-weight: 900;
+    box-shadow: #011F3F;
+    border: azure;
+    margin: calc();
+    font-family:cursive;
+  }
+  button
+  {
+    color: chocolate;
+    font-weight: 900;
+    background-color:aquamarine;
+  }
+
+  .ar1 {
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:green;
+  }
+  .ar2 {
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:red;
+  }
+  .ar3
+  {
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:yellow;
+  }
+.ar4
+{
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:blueviolet;
+
+}
+h1{
+  color:red;
+  font-family: kalam ;
+  font-weight: 600;
+border: 10px;
+border-color: bisque;
+}
